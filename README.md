@@ -1,6 +1,8 @@
 # python-progress-animation
 python script to show progress animation in terminal , can be shown when some other script/thread is still running 
-## setup
+## Demo
+[![asciicast](https://asciinema.org/a/YcIyziqvD4FKPJWLZdLlMcccR.png)](https://asciinema.org/a/YcIyziqvD4FKPJWLZdLlMcccR)
+## Setup
 * clone the repo
 ```shell
 git clone https://github.com/jigarWala/python-progress-animation.git
