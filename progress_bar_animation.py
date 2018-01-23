@@ -59,4 +59,4 @@ def show_progress():
         for progress_bar in progress_bars:
             os.system(r'printf "\r{} Processing..." '.format(progress_bar))
             os.system("sleep 0.1")
-    os.system(r'printf "\rDone!" '.format(progress_bar))
+    os.system(r'printf "\rDone"')
